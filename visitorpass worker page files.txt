@@ -1,0 +1,25 @@
+resources/views/admin/visitor/contractor.blade.php [done]
+ 
+resources/views/admin/ocr/contractor/workers.blade.php [done]
+
+App/Http/Controllers/Admin/ContractorController.php  [done]
+
+App/Http/Controllers/Admin/WorkerController.php  [done]
+
+App/Models/Worker.php [done]
+
+database/migrations/create_workers_table.php [done]
+
+App/Import/ImportWorkers.php [done]
+
+App/Providers/RouteServiceProvider.php [done]
+
+index_layout_footer.blade.php [done]
+
+en/files.php [done]
+
+ar/files.php [done]
+
+resources/views/admin/visitors/companion.blade.php [done]
+
+http://127.0.0.1:8000/admin/Add/Companion/From/New/Scan/eyJpdiI6InRjejNmRC9xRDZmTWVGU0V1NlB0Vnc9PSIsInZhbHVlIjoiUk44N2lnRS9mQ3E3WVdRd3VKWW53dz09IiwibWFjIjoiZmMyOTJlN2QwOGZmZGIzNzU1ZjNmNWQ1ZmQ2YzczNWVkMmU5OTJkNmFmMjg5YmIwMWI2NmE1Yjg3YWQ4NzVkZCIsInRhZyI6IiJ9
